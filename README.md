@@ -1,20 +1,17 @@
-🎥 Streaming-Platform
-A full-stack video streaming application that allows users to browse, watch, and stream videos seamlessly.
-Built with a modern frontend, a secure backend, and optimized media delivery for a smooth and responsive viewing experience.
+# 🎥 Streaming-Platform
 
-✨ Features
-🎞️ Video Streaming: Stream movies and shows in high quality with adaptive playback.
+A sleek, user-friendly video streaming website that allows users to browse and watch movies seamlessly. Integrated with open source **IMDb APIs** to display up-to-date movie data, ratings, and details.
 
-📂 Content Browsing: Discover movies, series, and trending media.
+## ✨ Features
+- 🎞️ **Browse Movies & Shows**: Discover popular and trending titles.  
+- 🔍 **Search**: Quickly find movies by title, genre, or category.  
+- 🌐 **IMDb API Integration**: Get accurate, real-time information about movies, ratings, and more.  
+- ⚡ **Responsive Design**: Works beautifully across mobile, tablet, and desktop.
 
-🔍 Search: Quickly find titles by name, category, or genre.
+## 🛠️ Technologies Used
+- **React.js** + TailwindCSS for a clean, responsive UI  
+- **Open Source IMDb APIs** for movie data  
+- **HLS / MP4** Video Streaming
 
-🌐 IMDb API Integration: Get up-to-date movies, ratings, and metadata via open source IMDb APIs.
-
-⚡ Responsive Design: Works seamlessly across mobile, tablet, and desktop.
 
 
-🛠️ Technologies Used
-Frontend: React.js, TailwindCSS
-
-External APIs: Open Source IMDb APIs for movies, ratings, and details
